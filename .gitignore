@@ -1,0 +1,10 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+config/api_keys.json
+config/certs/jarvis.key
+config/certs/jarvis.crt
+memory/long_term.json
